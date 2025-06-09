@@ -41,7 +41,7 @@ As a dedicated CSE student with a strong foundation in front-end and back-end te
   - Percentage: 84.8%
 
 ---
-
+<!--
 ## 📜 Certifications
 
 - The Front-End Web Developer – Udemy
@@ -50,7 +50,7 @@ As a dedicated CSE student with a strong foundation in front-end and back-end te
 - Python Complete Course for Beginners – Udemy
 - Machine Learning – Corizo
 
---- 
+--- -->
 
 
 ## 💻 Tech Stack:
